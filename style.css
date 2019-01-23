@@ -1,0 +1,42 @@
+body {
+    background-color: powderblue;
+}
+
+header {
+	text-align: center;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+
+}
+
+
+div.MainContainer{
+    background-color: lightgrey;
+    width: 500px;
+    padding: 40px;
+    margin: auto;
+}
+
+div.Nicolo{
+    background-color: lightgrey;
+    width: 500px;
+    padding: 40px;
+    margin: auto;
+}
+
+div.me{
+	display: block;
+    width: 500px;
+    padding: 40px;
+    margin: auto;
+}
+
+nav {
+	padding: 10px;
+	padding-left: 200px;
+	word-spacing: 100px;
+	width: 70%;
+}
